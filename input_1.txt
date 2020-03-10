@@ -1,0 +1,6 @@
+p,a,c
+p,a,c
+e,a,d
+e,b,c
+p,b,c
+p,b,d
